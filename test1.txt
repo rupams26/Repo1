@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 2278-91C8
-
- Directory of C:\Users\a\Desktop\MyProject
-
-04/24/2017  09:08 AM    <DIR>          .
-04/24/2017  09:08 AM    <DIR>          ..
-04/24/2017  09:08 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  152,612,200,448 bytes free
+Change 1
