@@ -1,1 +1,2 @@
 Change 1
+i am trying git bash here
